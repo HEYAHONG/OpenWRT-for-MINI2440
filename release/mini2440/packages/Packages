@@ -474,10 +474,10 @@ Essential: no
 Priority: optional
 Maintainer: OpenWrt Developers Team <openwrt-devel@openwrt.org>
 Architecture: mini2440
-Installed-Size: 11411
+Installed-Size: 11409
 Filename: fuse-utils_2.8.3-1_mini2440.ipk
-Size: 12079
-MD5Sum: bdf64e485d91a6183e0f2f51616178bf
+Size: 12078
+MD5Sum: cdd77c7b4eb81b309b827174f843de3b
 Description:  FUSE (Filesystem in UserSpacE)
  This package contains the FUSE utilities.
  - fusermount
@@ -651,10 +651,10 @@ Essential: no
 Priority: optional
 Maintainer: OpenWrt Developers Team <openwrt-devel@openwrt.org>
 Architecture: mini2440
-Installed-Size: 26578
+Installed-Size: 26575
 Filename: ipset_4.1-1_mini2440.ipk
-Size: 27079
-MD5Sum: f6cbc213ed18aab003e826cf3c734174
+Size: 27087
+MD5Sum: a890f0df2450337517050292376eeafb
 Description:  IPset administration utility
 
 Package: iptables-mod-conntrack-extra
@@ -863,8 +863,8 @@ Maintainer: OpenWrt Developers Team <openwrt-devel@openwrt.org>
 Architecture: mini2440
 Installed-Size: 106
 Filename: kernel_2.6.32.2-1_mini2440.ipk
-Size: 675
-MD5Sum: f100c61038e7ba22663daa6e6d227231
+Size: 683
+MD5Sum: ce5f49da835f5997beb7c5293eabbc53
 Description:  Virtual kernel package
 
 Package: kexec-tools
@@ -896,10 +896,10 @@ Essential: no
 Priority: optional
 Maintainer: OpenWrt Developers Team <openwrt-devel@openwrt.org>
 Architecture: mini2440
-Installed-Size: 13793
+Installed-Size: 13792
 Filename: kmod-aoe_2.6.32.2-1_mini2440.ipk
-Size: 14481
-MD5Sum: 0f2f84061e5b277802df2621dd912bb0
+Size: 14473
+MD5Sum: 219e5bc455d90941f07ff8c91842e787
 Description:  Kernel support for ATA over Ethernet
 
 Package: kmod-appletalk
@@ -913,10 +913,10 @@ Essential: no
 Priority: optional
 Maintainer: OpenWrt Developers Team <openwrt-devel@openwrt.org>
 Architecture: mini2440
-Installed-Size: 16981
+Installed-Size: 16972
 Filename: kmod-appletalk_2.6.32.2-1_mini2440.ipk
-Size: 17687
-MD5Sum: 7528a94f38c0fc751313ac5148add361
+Size: 17677
+MD5Sum: 6b2f275a0ec454c2405ad2ac38953b4e
 Description:  Kernel module for AppleTalk protocol.
 
 Package: kmod-ath
@@ -930,10 +930,10 @@ Essential: no
 Priority: optional
 Maintainer: Felix Fietkau <nbd@openwrt.org>
 Architecture: mini2440
-Installed-Size: 8601
+Installed-Size: 8599
 Filename: kmod-ath_2.6.32.2+2011-04-06-2_mini2440.ipk
-Size: 9331
-MD5Sum: 8e1bdd5fd1b9225b2f23fd41a17c8ff9
+Size: 9335
+MD5Sum: 048013d22bdb6226d669e1459788e484
 Description:  This module contains some common parts needed by Atheros Wireless drivers.
 
 Package: kmod-atm
@@ -947,10 +947,10 @@ Essential: no
 Priority: optional
 Maintainer: OpenWrt Developers Team <openwrt-devel@openwrt.org>
 Architecture: mini2440
-Installed-Size: 23472
+Installed-Size: 23471
 Filename: kmod-atm_2.6.32.2-1_mini2440.ipk
-Size: 24176
-MD5Sum: 6c4c85dd5f0416e67099dafa545dea22
+Size: 24175
+MD5Sum: ba731e911a577946b05516c6ec086212
 Description:  Kernel modules for ATM support
 
 Package: kmod-atmtcp
@@ -964,10 +964,10 @@ Essential: no
 Priority: optional
 Maintainer: OpenWrt Developers Team <openwrt-devel@openwrt.org>
 Architecture: mini2440
-Installed-Size: 3925
+Installed-Size: 3927
 Filename: kmod-atmtcp_2.6.32.2-1_mini2440.ipk
-Size: 4629
-MD5Sum: 4598bdb04c4af39e37821b773729d2b7
+Size: 4632
+MD5Sum: f92581c44fcad7761046536b25fabdae
 Description:  Kernel module for ATM over TCP support
 
 Package: kmod-block2mtd
@@ -983,8 +983,8 @@ Maintainer: OpenWrt Developers Team <openwrt-devel@openwrt.org>
 Architecture: mini2440
 Installed-Size: 3759
 Filename: kmod-block2mtd_2.6.32.2-1_mini2440.ipk
-Size: 4352
-MD5Sum: 37025ba017f31f3c2823bfa2294f081f
+Size: 4360
+MD5Sum: 08ecf5e4732bbab495238584a863e7f1
 Description:  Block device MTD emulation
 
 Package: kmod-bluetooth
@@ -998,10 +998,10 @@ Essential: no
 Priority: optional
 Maintainer: OpenWrt Developers Team <openwrt-devel@openwrt.org>
 Architecture: mini2440
-Installed-Size: 92545
+Installed-Size: 92536
 Filename: kmod-bluetooth_2.6.32.2-1_mini2440.ipk
-Size: 93315
-MD5Sum: 756d7815281ed3917c5db96f7d9c3da3
+Size: 93296
+MD5Sum: 49d715551359d8b7356c8683e38da70c
 Description:  Kernel support for Bluetooth devices
 
 Package: kmod-bonding
@@ -1015,10 +1015,10 @@ Essential: no
 Priority: optional
 Maintainer: OpenWrt Developers Team <openwrt-devel@openwrt.org>
 Architecture: mini2440
-Installed-Size: 41489
+Installed-Size: 41487
 Filename: kmod-bonding_2.6.32.2-1_mini2440.ipk
-Size: 42186
-MD5Sum: d3434c83ff1441652d7dfa3a13cd7612
+Size: 42196
+MD5Sum: 2be8c700226533622d84083fec10bcc4
 Description:  Kernel module for NIC bonding.
 
 Package: kmod-button-hotplug
@@ -1032,10 +1032,10 @@ Essential: no
 Priority: optional
 Maintainer: OpenWrt Developers Team <openwrt-devel@openwrt.org>
 Architecture: mini2440
-Installed-Size: 2627
+Installed-Size: 2632
 Filename: kmod-button-hotplug_2.6.32.2-1_mini2440.ipk
-Size: 3273
-MD5Sum: f74d2df4a0ea6644e262cf050d1cef88
+Size: 3284
+MD5Sum: fc529daffef8afc2e83e1c553361cd93
 Description:  Kernel module to generate button hotplug events
 
 Package: kmod-carl9170
@@ -1049,10 +1049,10 @@ Essential: no
 Priority: optional
 Maintainer: Felix Fietkau <nbd@openwrt.org>
 Architecture: mini2440
-Installed-Size: 55656
+Installed-Size: 55652
 Filename: kmod-carl9170_2.6.32.2+2011-04-06-2_mini2440.ipk
-Size: 56392
-MD5Sum: fd8ed503707d2d6e6f7ab52d9698f95b
+Size: 56379
+MD5Sum: fae5140acfa381ce6f6408fd64e3e405
 Description:  Driver for Atheros AR9170 USB sticks
 
 Package: kmod-cfg80211
@@ -1066,10 +1066,10 @@ Essential: no
 Priority: optional
 Maintainer: Felix Fietkau <nbd@openwrt.org>
 Architecture: mini2440
-Installed-Size: 79659
+Installed-Size: 79658
 Filename: kmod-cfg80211_2.6.32.2+2011-04-06-2_mini2440.ipk
-Size: 80521
-MD5Sum: eca930d2a37f9a4086993a883880be36
+Size: 80524
+MD5Sum: 9bbaf92a0dfedf15f326d01a138bd5a3
 Description:  cfg80211 is the Linux wireless LAN (802.11) configuration API.
 
 Package: kmod-compcache
@@ -1083,10 +1083,10 @@ Essential: no
 Priority: optional
 Maintainer: OpenWrt Developers Team <openwrt-devel@openwrt.org>
 Architecture: mini2440
-Installed-Size: 15432
+Installed-Size: 15427
 Filename: kmod-compcache_2.6.32.2-mini2440-1+1_mini2440.ipk
-Size: 16078
-MD5Sum: 603f12b6ff23c88031a53170987b9a36
+Size: 16079
+MD5Sum: 076817bb4a1076e46d57a5b41d590686
 Description:  Driver for compressed ram swap device
 
 Package: kmod-crc16
@@ -1100,10 +1100,10 @@ Essential: no
 Priority: optional
 Maintainer: OpenWrt Developers Team <openwrt-devel@openwrt.org>
 Architecture: mini2440
-Installed-Size: 1513
+Installed-Size: 1516
 Filename: kmod-crc16_2.6.32.2-1_mini2440.ipk
-Size: 2245
-MD5Sum: d80ebe2dacf1e4a3809a62424ee97481
+Size: 2252
+MD5Sum: 2c34039a2de11dcb03fb5ccc3831abc5
 Description:  Kernel module for CRC16 support
 
 Package: kmod-crc7
@@ -1117,10 +1117,10 @@ Essential: no
 Priority: optional
 Maintainer: OpenWrt Developers Team <openwrt-devel@openwrt.org>
 Architecture: mini2440
-Installed-Size: 1253
+Installed-Size: 1255
 Filename: kmod-crc7_2.6.32.2-1_mini2440.ipk
-Size: 1987
-MD5Sum: 4e642c76c34282058aea62e28b05a994
+Size: 1989
+MD5Sum: 147156505e5a5587a267a4941e4777c1
 Description:  Kernel module for CRC7 support
 
 Package: kmod-crypto-authenc
@@ -1134,10 +1134,10 @@ Essential: no
 Priority: optional
 Maintainer: OpenWrt Developers Team <openwrt-devel@openwrt.org>
 Architecture: mini2440
-Installed-Size: 4223
+Installed-Size: 4224
 Filename: kmod-crypto-authenc_2.6.32.2-1_mini2440.ipk
-Size: 4938
-MD5Sum: b8e9d0701bec9793ef10fb70e047582f
+Size: 4940
+MD5Sum: 0f5908607e90db8f893dd576142ba916
 Description:  Combined mode wrapper for IPsec
 
 Package: kmod-crypto-core
@@ -1153,8 +1153,8 @@ Maintainer: OpenWrt Developers Team <openwrt-devel@openwrt.org>
 Architecture: mini2440
 Installed-Size: 3284
 Filename: kmod-crypto-core_2.6.32.2-1_mini2440.ipk
-Size: 3992
-MD5Sum: b6931a74bca8973246746857fbbb631f
+Size: 3991
+MD5Sum: 9d30574540b56ed0d9d39c6974067470
 Description:  Core CryptoAPI modules
 
 Package: kmod-crypto-des
@@ -1168,10 +1168,10 @@ Essential: no
 Priority: optional
 Maintainer: OpenWrt Developers Team <openwrt-devel@openwrt.org>
 Architecture: mini2440
-Installed-Size: 7967
+Installed-Size: 7963
 Filename: kmod-crypto-des_2.6.32.2-1_mini2440.ipk
-Size: 8492
-MD5Sum: 6d843878b1ed56ee36bd37398424958a
+Size: 8453
+MD5Sum: 5daddee345ba2bba4eae98b3f5688d92
 Description:  DES/3DES cipher CryptoAPI module
 
 Package: kmod-crypto-hmac
@@ -1185,10 +1185,10 @@ Essential: no
 Priority: optional
 Maintainer: OpenWrt Developers Team <openwrt-devel@openwrt.org>
 Architecture: mini2440
-Installed-Size: 2355
+Installed-Size: 2354
 Filename: kmod-crypto-hmac_2.6.32.2-1_mini2440.ipk
 Size: 3061
-MD5Sum: baa144dd99f41bf901f15b78fe6e7fac
+MD5Sum: 82f54f933154669f84ae5e3476d37f3a
 Description:  HMAC digest CryptoAPI module
 
 Package: kmod-crypto-md5
@@ -1202,10 +1202,10 @@ Essential: no
 Priority: optional
 Maintainer: OpenWrt Developers Team <openwrt-devel@openwrt.org>
 Architecture: mini2440
-Installed-Size: 3183
+Installed-Size: 3181
 Filename: kmod-crypto-md5_2.6.32.2-1_mini2440.ipk
-Size: 3898
-MD5Sum: 247daeb404b9d42ce5d28f8e55c97495
+Size: 3896
+MD5Sum: 32e168854214b0de3c05544fcd731720
 Description:  MD5 digest CryptoAPI module
 
 Package: kmod-crypto-michael-mic
@@ -1219,10 +1219,10 @@ Essential: no
 Priority: optional
 Maintainer: OpenWrt Developers Team <openwrt-devel@openwrt.org>
 Architecture: mini2440
-Installed-Size: 1664
+Installed-Size: 1663
 Filename: kmod-crypto-michael-mic_2.6.32.2-1_mini2440.ipk
 Size: 2420
-MD5Sum: 40b851b0370fcf2764d3e04e4b129b4b
+MD5Sum: b2107dee0c4fa9dfd51b7fd5c8ffc0f4
 Description:  Michael MIC keyed digest CryptoAPI module
 
 Package: kmod-crypto-misc
@@ -1236,10 +1236,10 @@ Essential: no
 Priority: optional
 Maintainer: OpenWrt Developers Team <openwrt-devel@openwrt.org>
 Architecture: mini2440
-Installed-Size: 131730
+Installed-Size: 131732
 Filename: kmod-crypto-misc_2.6.32.2-1_mini2440.ipk
-Size: 127193
-MD5Sum: f0c56283c9a1c070b12684e910b7b43c
+Size: 127171
+MD5Sum: b29ef9a633f8d90a2dc8716c3a537e50
 Description:  Other CryptoAPI modules
 
 Package: kmod-crypto-null
@@ -1255,8 +1255,8 @@ Maintainer: OpenWrt Developers Team <openwrt-devel@openwrt.org>
 Architecture: mini2440
 Installed-Size: 1657
 Filename: kmod-crypto-null_2.6.32.2-1_mini2440.ipk
-Size: 2403
-MD5Sum: 57c0c628dea269de792dfd5b97e6ce0a
+Size: 2400
+MD5Sum: b2419e36bbddd7d972c518d2e27f32d6
 Description:  Null CryptoAPI module
 
 Package: kmod-crypto-ocf
@@ -1270,10 +1270,10 @@ Essential: no
 Priority: optional
 Maintainer: OpenWrt Developers Team <openwrt-devel@openwrt.org>
 Architecture: mini2440
-Installed-Size: 25497
+Installed-Size: 25498
 Filename: kmod-crypto-ocf_2.6.32.2-1_mini2440.ipk
-Size: 26172
-MD5Sum: d83390dff87c75354c2bf976a0f1bc5d
+Size: 26163
+MD5Sum: 3475cea2204a0382a867c68f20d3a7db
 Description:  OCF modules
 
 Package: kmod-crypto-sha1
@@ -1287,10 +1287,10 @@ Essential: no
 Priority: optional
 Maintainer: OpenWrt Developers Team <openwrt-devel@openwrt.org>
 Architecture: mini2440
-Installed-Size: 1734
+Installed-Size: 1733
 Filename: kmod-crypto-sha1_2.6.32.2-1_mini2440.ipk
-Size: 2477
-MD5Sum: 57165205c6249b11a760160306772d5e
+Size: 2479
+MD5Sum: 36203c698f081731d9e3daa5599e54b6
 Description:  SHA1 digest CryptoAPI module
 
 Package: kmod-crypto-test
@@ -1304,10 +1304,10 @@ Essential: no
 Priority: optional
 Maintainer: OpenWrt Developers Team <openwrt-devel@openwrt.org>
 Architecture: mini2440
-Installed-Size: 6459
+Installed-Size: 6460
 Filename: kmod-crypto-test_2.6.32.2-1_mini2440.ipk
-Size: 7079
-MD5Sum: 85917a834af246ad08e14d916704b53c
+Size: 7085
+MD5Sum: 33aaf7392e5d4dbee11d18c9b8b14395
 Description:  Test CryptoAPI module
 
 Package: kmod-dm
@@ -1321,10 +1321,10 @@ Essential: no
 Priority: optional
 Maintainer: OpenWrt Developers Team <openwrt-devel@openwrt.org>
 Architecture: mini2440
-Installed-Size: 43922
+Installed-Size: 43926
 Filename: kmod-dm_2.6.32.2-1_mini2440.ipk
-Size: 44677
-MD5Sum: 09792a11e156c7ccc41ec84e4f0d34eb
+Size: 44683
+MD5Sum: 5fe1d86f874895dd54d9869eda34594c
 Description:  Kernel module necessary for LVM2 support
 
 Package: kmod-dummy
@@ -1338,10 +1338,10 @@ Essential: no
 Priority: optional
 Maintainer: OpenWrt Developers Team <openwrt-devel@openwrt.org>
 Architecture: mini2440
-Installed-Size: 1906
+Installed-Size: 1910
 Filename: kmod-dummy_2.6.32.2-1_mini2440.ipk
-Size: 2639
-MD5Sum: 9426441733269725a5aa259f78e95731
+Size: 2643
+MD5Sum: 96861d7c06cf3c07b6745265cf29458d
 Description:  The dummy network device
 
 Package: kmod-eeprom-93cx6
@@ -1355,10 +1355,10 @@ Essential: no
 Priority: optional
 Maintainer: OpenWrt Developers Team <openwrt-devel@openwrt.org>
 Architecture: mini2440
-Installed-Size: 1471
+Installed-Size: 1470
 Filename: kmod-eeprom-93cx6_2.6.32.2-1_mini2440.ipk
-Size: 2217
-MD5Sum: fc4fdd9163883707dc7fc81534554d53
+Size: 2213
+MD5Sum: 907c3612ebc30630e518cf5f44385903
 Description:  Kernel module for EEPROM 93CX6 support
 
 Package: kmod-fs-autofs4
@@ -1372,10 +1372,10 @@ Essential: no
 Priority: optional
 Maintainer: OpenWrt Developers Team <openwrt-devel@openwrt.org>
 Architecture: mini2440
-Installed-Size: 12217
+Installed-Size: 12216
 Filename: kmod-fs-autofs4_2.6.32.2-1_mini2440.ipk
-Size: 12941
-MD5Sum: d6e31f23ad622cf6f9faacfa8258e53f
+Size: 12935
+MD5Sum: 4db881a3412519a1f7e3f455b8359535
 Description:  Kernel module for AutoFS4 support
 
 Package: kmod-fs-btrfs
@@ -1389,10 +1389,10 @@ Essential: no
 Priority: optional
 Maintainer: OpenWrt Developers Team <openwrt-devel@openwrt.org>
 Architecture: mini2440
-Installed-Size: 263625
+Installed-Size: 263620
 Filename: kmod-fs-btrfs_2.6.32.2-1_mini2440.ipk
-Size: 264085
-MD5Sum: 1190974d9b0956a89dcc1669f692ea69
+Size: 264072
+MD5Sum: 12278750aaa910fc0528c2dba691edbc
 Description:  Kernel module for BTRFS support
 
 Package: kmod-fs-cifs
@@ -1406,10 +1406,10 @@ Essential: no
 Priority: optional
 Maintainer: OpenWrt Developers Team <openwrt-devel@openwrt.org>
 Architecture: mini2440
-Installed-Size: 105890
+Installed-Size: 105893
 Filename: kmod-fs-cifs_2.6.32.2-1_mini2440.ipk
-Size: 105652
-MD5Sum: c72a6bbcc4289f32b57a7e0ce870cf91
+Size: 105621
+MD5Sum: 83eb568a955e8878abe22ebb70d87baf
 Description:  Kernel module for CIFS support
 
 Package: kmod-fs-exportfs
@@ -1423,10 +1423,10 @@ Essential: no
 Priority: optional
 Maintainer: OpenWrt Developers Team <openwrt-devel@openwrt.org>
 Architecture: mini2440
-Installed-Size: 2606
+Installed-Size: 2611
 Filename: kmod-fs-exportfs_2.6.32.2-1_mini2440.ipk
-Size: 3322
-MD5Sum: e1629eab461a9d35da7401fa69aabb1c
+Size: 3329
+MD5Sum: 4bf8185f543c99a59e100f2a6e6f095c
 Description:  Kernel module for exportfs. Needed for some other modules.
 
 Package: kmod-fs-ext2
@@ -1440,10 +1440,10 @@ Essential: no
 Priority: optional
 Maintainer: OpenWrt Developers Team <openwrt-devel@openwrt.org>
 Architecture: mini2440
-Installed-Size: 25961
+Installed-Size: 25962
 Filename: kmod-fs-ext2_2.6.32.2-1_mini2440.ipk
-Size: 26656
-MD5Sum: 590476ab4915f01a82de34a1231560b1
+Size: 26658
+MD5Sum: 143886ddda8619ba246ce0a1ed28df96
 Description:  Kernel module for EXT2 filesystem support
 
 Package: kmod-fs-ext3
@@ -1459,8 +1459,8 @@ Maintainer: OpenWrt Developers Team <openwrt-devel@openwrt.org>
 Architecture: mini2440
 Installed-Size: 71780
 Filename: kmod-fs-ext3_2.6.32.2-1_mini2440.ipk
-Size: 72478
-MD5Sum: 25784ab397ce3a69f18946b754eb56e2
+Size: 72475
+MD5Sum: 89db2b606bdbac3cc22dc23d966fa99b
 Description:  Kernel module for EXT3 filesystem support
 
 Package: kmod-fs-ext4
@@ -1474,10 +1474,10 @@ Essential: no
 Priority: optional
 Maintainer: OpenWrt Developers Team <openwrt-devel@openwrt.org>
 Architecture: mini2440
-Installed-Size: 140037
+Installed-Size: 140036
 Filename: kmod-fs-ext4_2.6.32.2-1_mini2440.ipk
-Size: 140680
-MD5Sum: 4956c61c14007138116c3d10630214c2
+Size: 140699
+MD5Sum: a7bf956cb33d545809507682bc1166c5
 Description:  Kernel module for EXT4 filesystem support
 
 Package: kmod-fs-hfs
@@ -1491,10 +1491,10 @@ Essential: no
 Priority: optional
 Maintainer: OpenWrt Developers Team <openwrt-devel@openwrt.org>
 Architecture: mini2440
-Installed-Size: 26418
+Installed-Size: 26420
 Filename: kmod-fs-hfs_2.6.32.2-1_mini2440.ipk
-Size: 27085
-MD5Sum: bab727dcc4d67827fd379529762b7baa
+Size: 27107
+MD5Sum: 70cfdfc0d587b959191ecb732fb58d17
 Description:  Kernel module for HFS filesystem support
 
 Package: kmod-fs-hfsplus
@@ -1510,8 +1510,8 @@ Maintainer: OpenWrt Developers Team <openwrt-devel@openwrt.org>
 Architecture: mini2440
 Installed-Size: 45675
 Filename: kmod-fs-hfsplus_2.6.32.2-1_mini2440.ipk
-Size: 46355
-MD5Sum: 2a60fc89839a981db4fc01c0de22b531
+Size: 46341
+MD5Sum: 78eeae7cadc7eb4605676adb9bffd7d6
 Description:  Kernel module for HFS+ filesystem support
 
 Package: kmod-fs-isofs
@@ -1525,10 +1525,10 @@ Essential: no
 Priority: optional
 Maintainer: OpenWrt Developers Team <openwrt-devel@openwrt.org>
 Architecture: mini2440
-Installed-Size: 16006
+Installed-Size: 16005
 Filename: kmod-fs-isofs_2.6.32.2-1_mini2440.ipk
-Size: 16714
-MD5Sum: 4cec28756a98e4a4558498cb35acf91d
+Size: 16713
+MD5Sum: 625ea4b18a3b2174388fe9b076b83e65
 Description:  Kernel module for ISO9660 filesystem support
 
 Package: kmod-fs-mbcache
@@ -1544,8 +1544,8 @@ Maintainer: OpenWrt Developers Team <openwrt-devel@openwrt.org>
 Architecture: mini2440
 Installed-Size: 3640
 Filename: kmod-fs-mbcache_2.6.32.2-1_mini2440.ipk
-Size: 4344
-MD5Sum: b27e55b0f0d75349bebdbc625922ace0
+Size: 4346
+MD5Sum: 101eee589e6b362460603e2964528ac0
 Description:  mbcache (used by ext2/ext3/ext4)
 
 Package: kmod-fs-minix
@@ -1559,10 +1559,10 @@ Essential: no
 Priority: optional
 Maintainer: OpenWrt Developers Team <openwrt-devel@openwrt.org>
 Architecture: mini2440
-Installed-Size: 13498
+Installed-Size: 13497
 Filename: kmod-fs-minix_2.6.32.2-1_mini2440.ipk
-Size: 14217
-MD5Sum: b79f6b7b6c7c6ef7a1d83b3d827a4296
+Size: 14226
+MD5Sum: 75bf8a5f3a2008afcec52830406095a4
 Description:  Kernel module for Minix filesystem support
 
 Package: kmod-fs-msdos
@@ -1576,10 +1576,10 @@ Essential: no
 Priority: optional
 Maintainer: OpenWrt Developers Team <openwrt-devel@openwrt.org>
 Architecture: mini2440
-Installed-Size: 4642
+Installed-Size: 4647
 Filename: kmod-fs-msdos_2.6.32.2-1_mini2440.ipk
-Size: 5371
-MD5Sum: 911279a57219d06476f079459ab1d5dd
+Size: 5368
+MD5Sum: fe41a06ece504c014b36ff11beee81b3
 Description:  Kernel module for MSDOS filesystem support
 
 Package: kmod-fs-nfsd
@@ -1593,10 +1593,10 @@ Essential: no
 Priority: optional
 Maintainer: OpenWrt Developers Team <openwrt-devel@openwrt.org>
 Architecture: mini2440
-Installed-Size: 43864
+Installed-Size: 43868
 Filename: kmod-fs-nfsd_2.6.32.2-1_mini2440.ipk
 Size: 44612
-MD5Sum: ff3a87b353fbeb43769465365a84448e
+MD5Sum: 2dc9eae3e322cf7b2eca8ded191b93b6
 Description:  Kernel module for NFS kernel server support
 
 Package: kmod-fs-ntfs
@@ -1610,10 +1610,10 @@ Essential: no
 Priority: optional
 Maintainer: OpenWrt Developers Team <openwrt-devel@openwrt.org>
 Architecture: mini2440
-Installed-Size: 51021
+Installed-Size: 51016
 Filename: kmod-fs-ntfs_2.6.32.2-1_mini2440.ipk
-Size: 51703
-MD5Sum: 0bdd7c81bfa5cefe9df5c694f737ccb2
+Size: 51679
+MD5Sum: 714ee5fc0ee6ee5047632b6c10a70fed
 Description:  Kernel module for NTFS filesystem support
 
 Package: kmod-fs-reiserfs
@@ -1627,10 +1627,10 @@ Essential: no
 Priority: optional
 Maintainer: OpenWrt Developers Team <openwrt-devel@openwrt.org>
 Architecture: mini2440
-Installed-Size: 114427
+Installed-Size: 114430
 Filename: kmod-fs-reiserfs_2.6.32.2-1_mini2440.ipk
-Size: 115067
-MD5Sum: 559247ab53f4f92395e7730337eda6ae
+Size: 115113
+MD5Sum: b1f547508410f021413a781818e871a8
 Description:  Kernel module for ReiserFS support
 
 Package: kmod-fs-udf
@@ -1644,10 +1644,10 @@ Essential: no
 Priority: optional
 Maintainer: OpenWrt Developers Team <openwrt-devel@openwrt.org>
 Architecture: mini2440
-Installed-Size: 47406
+Installed-Size: 47415
 Filename: kmod-fs-udf_2.6.32.2-1_mini2440.ipk
-Size: 48159
-MD5Sum: 3f75668e2450bcd299771cafe4a74bd4
+Size: 48153
+MD5Sum: 5417637f66d7c6745a2e5723f5a472a8
 Description:  Kernel module for UDF filesystem support
 
 Package: kmod-fs-xfs
@@ -1661,10 +1661,10 @@ Essential: no
 Priority: optional
 Maintainer: OpenWrt Developers Team <openwrt-devel@openwrt.org>
 Architecture: mini2440
-Installed-Size: 230256
+Installed-Size: 230253
 Filename: kmod-fs-xfs_2.6.32.2-1_mini2440.ipk
-Size: 230934
-MD5Sum: a7eecfc14e75677488ed50857dcdb469
+Size: 230903
+MD5Sum: aa28fa095bc059c7df955a83bd3ee4c9
 Description:  Kernel module for XFS support
 
 Package: kmod-fuse
@@ -1678,10 +1678,10 @@ Essential: no
 Priority: optional
 Maintainer: OpenWrt Developers Team <openwrt-devel@openwrt.org>
 Architecture: mini2440
-Installed-Size: 30911
+Installed-Size: 30912
 Filename: kmod-fuse_2.6.32.2-1_mini2440.ipk
-Size: 31626
-MD5Sum: c165e8b08a3dae085e80c093847b9d7f
+Size: 31625
+MD5Sum: 095f9ae68ab2d79045897366a5bbba98
 Description:  FUSE (Filesystem in UserSpacE)
  This package contains the FUSE kernel module.
 
@@ -1696,10 +1696,10 @@ Essential: no
 Priority: optional
 Maintainer: OpenWrt Developers Team <openwrt-devel@openwrt.org>
 Architecture: mini2440
-Installed-Size: 2016
+Installed-Size: 2018
 Filename: kmod-gpio-dev_2.6.32.2-1_mini2440.ipk
-Size: 2774
-MD5Sum: ee634a2a1d8cbf3abb25652d6baf9992
+Size: 2773
+MD5Sum: 9ba785616f5834a1be839d8de30aca2b
 Description:  Kernel module to allows control of GPIO pins using a character device.
 
 Package: kmod-gre
@@ -1713,10 +1713,10 @@ Essential: no
 Priority: optional
 Maintainer: OpenWrt Developers Team <openwrt-devel@openwrt.org>
 Architecture: mini2440
-Installed-Size: 8342
+Installed-Size: 8341
 Filename: kmod-gre_2.6.32.2-1_mini2440.ipk
-Size: 9002
-MD5Sum: bb3aeb4cd97daecf05cf39d59cc8889e
+Size: 9003
+MD5Sum: 97af2ebe1ceddecb41c2b260cb03dea3
 Description:  Generic Routing Encapsulation support
 
 Package: kmod-hwmon-core
@@ -1730,10 +1730,10 @@ Essential: no
 Priority: optional
 Maintainer: OpenWrt Developers Team <openwrt-devel@openwrt.org>
 Architecture: mini2440
-Installed-Size: 1575
+Installed-Size: 1573
 Filename: kmod-hwmon-core_2.6.32.2-1_mini2440.ipk
-Size: 2316
-MD5Sum: ad26b5e12ac47d07a4600aae3508e47e
+Size: 2313
+MD5Sum: 30d81e855fdacc199071e47fb94d0d57
 Description:  Kernel modules for hardware monitoring
 
 Package: kmod-hwmon-lm75
@@ -1747,10 +1747,10 @@ Essential: no
 Priority: optional
 Maintainer: OpenWrt Developers Team <openwrt-devel@openwrt.org>
 Architecture: mini2440
-Installed-Size: 3654
+Installed-Size: 3650
 Filename: kmod-hwmon-lm75_2.6.32.2-1_mini2440.ipk
-Size: 4385
-MD5Sum: 8a620da230f2a96ffe622867152cac22
+Size: 4373
+MD5Sum: eaee9d1fad0868831fa6d6830ab93047
 Description:  Kernel module for lm75 thermal monitor chip
 
 Package: kmod-hwmon-lm77
@@ -1764,10 +1764,10 @@ Essential: no
 Priority: optional
 Maintainer: OpenWrt Developers Team <openwrt-devel@openwrt.org>
 Architecture: mini2440
-Installed-Size: 3863
+Installed-Size: 3862
 Filename: kmod-hwmon-lm77_2.6.32.2-1_mini2440.ipk
-Size: 4600
-MD5Sum: 1ce023c34675e10b48b692d40d98218a
+Size: 4594
+MD5Sum: 4ea629f56bdf32860c7b8ef94835cb2a
 Description:  Kernel module for LM77 thermal monitor chip
 
 Package: kmod-hwmon-lm90
@@ -1783,8 +1783,8 @@ Maintainer: OpenWrt Developers Team <openwrt-devel@openwrt.org>
 Architecture: mini2440
 Installed-Size: 6821
 Filename: kmod-hwmon-lm90_2.6.32.2-1_mini2440.ipk
-Size: 7569
-MD5Sum: 6ce15577cd58bdd2524925e3cb606e76
+Size: 7574
+MD5Sum: d8cb307ed7ccdc75d6b900ccbd139187
 Description:  Kernel module for LM90 thermal monitor chip
 
 Package: kmod-ifb
@@ -1798,10 +1798,10 @@ Essential: no
 Priority: optional
 Maintainer: OpenWrt Developers Team <openwrt-devel@openwrt.org>
 Architecture: mini2440
-Installed-Size: 2734
+Installed-Size: 2736
 Filename: kmod-ifb_2.6.32.2-1_mini2440.ipk
-Size: 3434
-MD5Sum: efbfda4123194ea0e5a2f77c96925d14
+Size: 3435
+MD5Sum: 07a6c610534eb7e7b2e6832503065e26
 Description:  The Intermediate Functional Block
 
 Package: kmod-input-gpio-buttons
@@ -1815,10 +1815,10 @@ Essential: no
 Priority: optional
 Maintainer: OpenWrt Developers Team <openwrt-devel@openwrt.org>
 Architecture: mini2440
-Installed-Size: 2474
+Installed-Size: 2475
 Filename: kmod-input-gpio-buttons_2.6.32.2-1_mini2440.ipk
-Size: 3208
-MD5Sum: f3a37d3825654f0b77b9991a83aa092a
+Size: 3206
+MD5Sum: 269f86ce7c62c390cd7945347a4b84f1
 Description:  Kernel module for support polled GPIO buttons input device
 
 Package: kmod-input-joydev
@@ -1832,10 +1832,10 @@ Essential: no
 Priority: optional
 Maintainer: OpenWrt Developers Team <openwrt-devel@openwrt.org>
 Architecture: mini2440
-Installed-Size: 5646
+Installed-Size: 5643
 Filename: kmod-input-joydev_2.6.32.2-1_mini2440.ipk
-Size: 6381
-MD5Sum: e4b9a641bb336e187b07f8afbb207133
+Size: 6386
+MD5Sum: 48d5d829fe080d33bdb2bc089efcfac0
 Description:  Kernel module for joystick support
 
 Package: kmod-input-polldev
@@ -1849,10 +1849,10 @@ Essential: no
 Priority: optional
 Maintainer: OpenWrt Developers Team <openwrt-devel@openwrt.org>
 Architecture: mini2440
-Installed-Size: 2049
+Installed-Size: 2048
 Filename: kmod-input-polldev_2.6.32.2-1_mini2440.ipk
-Size: 2802
-MD5Sum: b1b1400b7ce343a1f7b6f50124709ab7
+Size: 2795
+MD5Sum: 7b99125dea3aa1558dad6f4a4641aeeb
 Description:  Kernel module for support of polled input devices
 
 Package: kmod-ip6-tunnel
@@ -1866,10 +1866,10 @@ Essential: no
 Priority: optional
 Maintainer: OpenWrt Developers Team <openwrt-devel@openwrt.org>
 Architecture: mini2440
-Installed-Size: 8250
+Installed-Size: 8245
 Filename: kmod-ip6-tunnel_2.6.32.2-1_mini2440.ipk
-Size: 8978
-MD5Sum: 13e20c8978b4ab92e7fe2bf8b490e16e
+Size: 8975
+MD5Sum: e1dccd7ddf7ef816246c95bd75253957
 Description:  Kernel modules for IPv6-in-IPv6 and IPv4-in-IPv6 tunnelling
 
 Package: kmod-ip6tables
@@ -1883,10 +1883,10 @@ Essential: no
 Priority: optional
 Maintainer: OpenWrt Developers Team <openwrt-devel@openwrt.org>
 Architecture: mini2440
-Installed-Size: 29529
+Installed-Size: 29538
 Filename: kmod-ip6tables_2.6.32.2-1_mini2440.ipk
-Size: 30228
-MD5Sum: df91e0b71303129f4585e7aa75ca6cea
+Size: 30244
+MD5Sum: 0dbe6598267c084960dc96fcd0f0d3c9
 Description:  Netfilter IPv6 firewalling support
 
 Package: kmod-ipip
@@ -1900,10 +1900,10 @@ Essential: no
 Priority: optional
 Maintainer: OpenWrt Developers Team <openwrt-devel@openwrt.org>
 Architecture: mini2440
-Installed-Size: 5504
+Installed-Size: 5503
 Filename: kmod-ipip_2.6.32.2-1_mini2440.ipk
 Size: 6241
-MD5Sum: 78fab6777cdce1e1a6a950a3ed58425c
+MD5Sum: 0cf775f9f94163f2aa847472d3776a3f
 Description:  Kernel modules for IP-in-IP encapsulation
 
 Package: kmod-ipoa
@@ -1917,10 +1917,10 @@ Essential: no
 Priority: optional
 Maintainer: OpenWrt Developers Team <openwrt-devel@openwrt.org>
 Architecture: mini2440
-Installed-Size: 6571
+Installed-Size: 6566
 Filename: kmod-ipoa_2.6.32.2-1_mini2440.ipk
-Size: 7301
-MD5Sum: a1e73c668840bceaa9072f4a6d6fe16f
+Size: 7294
+MD5Sum: 608592a7154519eda9f859396e579b05
 Description:  Kernel modules for IPoA (IP over ATM) support
 
 Package: kmod-ipsec4
@@ -1934,10 +1934,10 @@ Essential: no
 Priority: optional
 Maintainer: OpenWrt Developers Team <openwrt-devel@openwrt.org>
 Architecture: mini2440
-Installed-Size: 10699
+Installed-Size: 10698
 Filename: kmod-ipsec4_2.6.32.2-1_mini2440.ipk
-Size: 11455
-MD5Sum: 43a329c57a72aa8336bc579091e4ac0a
+Size: 11450
+MD5Sum: 25d89a6d5e32d66a27469cf8ea39e451
 Description:  Kernel modules for IPsec support in IPv4.
  Includes:
  - ah4
@@ -1959,10 +1959,10 @@ Essential: no
 Priority: optional
 Maintainer: OpenWrt Developers Team <openwrt-devel@openwrt.org>
 Architecture: mini2440
-Installed-Size: 11371
+Installed-Size: 11358
 Filename: kmod-ipsec6_2.6.32.2-1_mini2440.ipk
-Size: 12134
-MD5Sum: 7c10c8c26ead52ebea19a5ff215db686
+Size: 12116
+MD5Sum: d771c88f47542d8c0b1b3d66762d8175
 Description:  Kernel modules for IPsec support in IPv6.
  Includes:
  - ah6
@@ -1984,10 +1984,10 @@ Essential: no
 Priority: optional
 Maintainer: OpenWrt Developers Team <openwrt-devel@openwrt.org>
 Architecture: mini2440
-Installed-Size: 29357
+Installed-Size: 29363
 Filename: kmod-ipsec_2.6.32.2-1_mini2440.ipk
-Size: 30130
-MD5Sum: 47a3d45c99d98595b30bc12d886e393e
+Size: 30124
+MD5Sum: 7b3f156860301a81b30bfd0e2f6824ec
 Description:  Kernel modules for IPsec support in both IPv4 and IPv6.
  Includes:
  - af_key
@@ -2005,10 +2005,10 @@ Essential: no
 Priority: optional
 Maintainer: OpenWrt Developers Team <openwrt-devel@openwrt.org>
 Architecture: mini2440
-Installed-Size: 1202
+Installed-Size: 1201
 Filename: kmod-ipt-conntrack_2.6.32.2-1_mini2440.ipk
 Size: 2000
-MD5Sum: 4a90b031c77b87a4f0d57518a7b7183c
+MD5Sum: b607b1c997fa9a449c8a7e7fb6285cde
 Description:  Netfilter (IPv4) kernel modules for connection tracking
  Includes:
  - conntrack
@@ -2028,10 +2028,10 @@ Essential: no
 Priority: optional
 Maintainer: OpenWrt Developers Team <openwrt-devel@openwrt.org>
 Architecture: mini2440
-Installed-Size: 7289
+Installed-Size: 7283
 Filename: kmod-ipt-filter_2.6.32.2-1_mini2440.ipk
-Size: 8077
-MD5Sum: 6861d57e4344dd01f687799ead0cebc6
+Size: 8068
+MD5Sum: 31d2a96f2e1c0ca4f6f873d74178a4ba
 Description:  Netfilter (IPv4) kernel modules for packet content inspection
  Includes:
  - layer7
@@ -2048,10 +2048,10 @@ Essential: no
 Priority: optional
 Maintainer: OpenWrt Developers Team <openwrt-devel@openwrt.org>
 Architecture: mini2440
-Installed-Size: 4231
+Installed-Size: 4230
 Filename: kmod-ipt-imq_2.6.32.2-1_mini2440.ipk
-Size: 4971
-MD5Sum: 6f6fe66ff73221cc683007a5c8581cf1
+Size: 4965
+MD5Sum: 6396eeccb9640cb9237891026ea663bd
 Description:  Kernel support for Intermediate Queueing devices
 
 Package: kmod-ipt-ipopt
@@ -2065,10 +2065,10 @@ Essential: no
 Priority: optional
 Maintainer: OpenWrt Developers Team <openwrt-devel@openwrt.org>
 Architecture: mini2440
-Installed-Size: 1734
+Installed-Size: 1732
 Filename: kmod-ipt-ipopt_2.6.32.2-1_mini2440.ipk
-Size: 2615
-MD5Sum: e4ce0670cfb0e845a5bcde098fb62820
+Size: 2614
+MD5Sum: bdf4dac0b437e6decc1c259125dafd3d
 Description:  Netfilter (IPv4) modules for matching/changing IP packet options
  Includes:
  - CLASSIFY
@@ -2095,10 +2095,10 @@ Essential: no
 Priority: optional
 Maintainer: OpenWrt Developers Team <openwrt-devel@openwrt.org>
 Architecture: mini2440
-Installed-Size: 37471
+Installed-Size: 37464
 Filename: kmod-ipt-ipset_2.6.32.2+4.1-1_mini2440.ipk
-Size: 38249
-MD5Sum: 4d57cc429acd45c647b4b55bff3565d6
+Size: 38248
+MD5Sum: c42b0b51f0b8ad5b1f7f76c475d2e02f
 Description:  IPset netfilter modules
 
 Package: kmod-iptunnel4
@@ -2112,10 +2112,10 @@ Essential: no
 Priority: optional
 Maintainer: OpenWrt Developers Team <openwrt-devel@openwrt.org>
 Architecture: mini2440
-Installed-Size: 1790
+Installed-Size: 1792
 Filename: kmod-iptunnel4_2.6.32.2-1_mini2440.ipk
-Size: 2521
-MD5Sum: f85cd00e545dbfe341771f12961b4daa
+Size: 2527
+MD5Sum: 8265142157e628b0682bdce6b066d0d4
 Description:  Kernel modules for IPv4 tunneling
 
 Package: kmod-iptunnel6
@@ -2129,10 +2129,10 @@ Essential: no
 Priority: optional
 Maintainer: OpenWrt Developers Team <openwrt-devel@openwrt.org>
 Architecture: mini2440
-Installed-Size: 1821
+Installed-Size: 1819
 Filename: kmod-iptunnel6_2.6.32.2-1_mini2440.ipk
-Size: 2560
-MD5Sum: 7c276c8569ec9a5693d8388c1067118f
+Size: 2561
+MD5Sum: d587c456e3882ac03828d3d5c4e680b4
 Description:  Kernel modules for IPv6 tunneling
 
 Package: kmod-ipv6
@@ -2146,10 +2146,10 @@ Essential: no
 Priority: optional
 Maintainer: OpenWrt Developers Team <openwrt-devel@openwrt.org>
 Architecture: mini2440
-Installed-Size: 126942
+Installed-Size: 126945
 Filename: kmod-ipv6_2.6.32.2-1_mini2440.ipk
-Size: 127423
-MD5Sum: f8124fb6e81fcc131f2f7f0137c7c580
+Size: 127425
+MD5Sum: 03662bcb611f9156b2180b26c7bbbab0
 Description:  Kernel modules for IPv6 support
 
 Package: kmod-iwl-legacy
@@ -2165,8 +2165,8 @@ Maintainer: Felix Fietkau <nbd@openwrt.org>
 Architecture: mini2440
 Installed-Size: 26289
 Filename: kmod-iwl-legacy_2.6.32.2+2011-04-06-2_mini2440.ipk
-Size: 26846
-MD5Sum: b6699b1a503ab5b53b047ae265325625
+Size: 26935
+MD5Sum: b0ddfbc527e7d8a7da93a1e988dbfd5e
 Description:  iwl-legacy kernel module for legacy Intel wireless support
 
 Package: kmod-iwl3945
@@ -2182,8 +2182,8 @@ Maintainer: Felix Fietkau <nbd@openwrt.org>
 Architecture: mini2440
 Installed-Size: 97263
 Filename: kmod-iwl3945_2.6.32.2+2011-04-06-2_mini2440.ipk
-Size: 97927
-MD5Sum: 85a23d7b09e89f8f3e09846710f5eedd
+Size: 97933
+MD5Sum: 12bae91c6232af989849b18bed42b6b1
 Description:  iwl3945 kernel module for Intel 3945 support
 
 Package: kmod-iwl4965
@@ -2199,8 +2199,8 @@ Maintainer: Felix Fietkau <nbd@openwrt.org>
 Architecture: mini2440
 Installed-Size: 136044
 Filename: kmod-iwl4965_2.6.32.2+2011-04-06-2_mini2440.ipk
-Size: 136472
-MD5Sum: 68a993e3cf7098fe20372b3ff7d8ef84
+Size: 136473
+MD5Sum: 33939c7d7c6672385cfdeb82a1d95467
 Description:  iwl4965 kernel module for Intel 4965 support
 
 Package: kmod-iwlagn
@@ -2214,10 +2214,10 @@ Essential: no
 Priority: optional
 Maintainer: Felix Fietkau <nbd@openwrt.org>
 Architecture: mini2440
-Installed-Size: 1665277
+Installed-Size: 1665266
 Filename: kmod-iwlagn_2.6.32.2+2011-04-06-2_mini2440.ipk
-Size: 1663530
-MD5Sum: 724892be2cbe39c8856077a368019fe9
+Size: 1663474
+MD5Sum: 49eeda0e6e705febd0b43776229932f8
 Description:  iwlagn kernel module for Intel 5000/5150/1000/6000/6050/6005/6030/100 support
 
 Package: kmod-leds-gpio
@@ -2231,10 +2231,10 @@ Essential: no
 Priority: optional
 Maintainer: OpenWrt Developers Team <openwrt-devel@openwrt.org>
 Architecture: mini2440
-Installed-Size: 2177
+Installed-Size: 2176
 Filename: kmod-leds-gpio_2.6.32.2-1_mini2440.ipk
-Size: 2917
-MD5Sum: fc2536bfee225655f7b99f9bdb9e9c5a
+Size: 2916
+MD5Sum: 9e8a7c09e8c1bacde0527b4766cd8651
 Description:  Kernel module for LEDs on GPIO lines
 
 Package: kmod-ledtrig-morse
@@ -2248,10 +2248,10 @@ Essential: no
 Priority: optional
 Maintainer: OpenWrt Developers Team <openwrt-devel@openwrt.org>
 Architecture: mini2440
-Installed-Size: 2371
+Installed-Size: 2373
 Filename: kmod-ledtrig-morse_2.6.32.2-1_mini2440.ipk
-Size: 3087
-MD5Sum: 36dbbdb27c3d7d89973dd882545c69e0
+Size: 3089
+MD5Sum: 5d66e262777394e7af071b31406239fd
 Description:  Kernel module to show morse coded messages on LEDs.
 
 Package: kmod-lib80211
@@ -2267,8 +2267,8 @@ Maintainer: OpenWrt Developers Team <openwrt-devel@openwrt.org>
 Architecture: mini2440
 Installed-Size: 11852
 Filename: kmod-lib80211_2.6.32.2-1_mini2440.ipk
-Size: 12629
-MD5Sum: 7ab680fe328fea303313eccacd325060
+Size: 12639
+MD5Sum: eb532833f5b9074a6b20420784a24866
 Description:  Kernel modules for 802.11 Networking stack
  Includes:
  - lib80211
@@ -2287,10 +2287,10 @@ Essential: no
 Priority: optional
 Maintainer: Felix Fietkau <nbd@openwrt.org>
 Architecture: mini2440
-Installed-Size: 125263
+Installed-Size: 125260
 Filename: kmod-libertas-sd_2.6.32.2+2011-04-06-2_mini2440.ipk
-Size: 126047
-MD5Sum: c59ec15f3b05e938337f23e7019b338b
+Size: 126023
+MD5Sum: 6f6d4a7ca43e370f832c2b2535cb6448
 Description:  Marvell 88W8686 Wireless Driver
 
 Package: kmod-libertas-usb
@@ -2304,10 +2304,10 @@ Essential: no
 Priority: optional
 Maintainer: Felix Fietkau <nbd@openwrt.org>
 Architecture: mini2440
-Installed-Size: 124143
+Installed-Size: 124136
 Filename: kmod-libertas-usb_2.6.32.2+2011-04-06-2_mini2440.ipk
-Size: 125000
-MD5Sum: 1a37a816ce2fc6481f1e3fab7e901185
+Size: 124999
+MD5Sum: a6607172ad71fc5e07828ed80f7b7137
 Description:  Marvell 88W8015 Wireless Driver
 
 Package: kmod-libphy
@@ -2321,10 +2321,10 @@ Essential: no
 Priority: optional
 Maintainer: OpenWrt Developers Team <openwrt-devel@openwrt.org>
 Architecture: mini2440
-Installed-Size: 8668
+Installed-Size: 8672
 Filename: kmod-libphy_2.6.32.2-1_mini2440.ipk
-Size: 9396
-MD5Sum: 54d7e0599665524ce71faa18e809e039
+Size: 9404
+MD5Sum: 692205a4718955c47e540cf3a2bdf672
 Description:  PHY library
 
 Package: kmod-mac80211-hwsim
@@ -2338,10 +2338,10 @@ Essential: no
 Priority: optional
 Maintainer: Felix Fietkau <nbd@openwrt.org>
 Architecture: mini2440
-Installed-Size: 9246
+Installed-Size: 9242
 Filename: kmod-mac80211-hwsim_2.6.32.2+2011-04-06-2_mini2440.ipk
-Size: 9989
-MD5Sum: b976acf1f4f33f5b136be0180dd4f93b
+Size: 9985
+MD5Sum: d8233f37dfa250436053a2547575ed13
 Description:  mac80211 HW simulation device
 
 Package: kmod-mac80211
@@ -2355,10 +2355,10 @@ Essential: no
 Priority: optional
 Maintainer: Felix Fietkau <nbd@openwrt.org>
 Architecture: mini2440
-Installed-Size: 119840
+Installed-Size: 119839
 Filename: kmod-mac80211_2.6.32.2+2011-04-06-2_mini2440.ipk
-Size: 120366
-MD5Sum: b40eec5a9fe6e1a1f2f30eb182a0593c
+Size: 120369
+MD5Sum: 4e562c3d41a4ccbf670e7f13b775c2d2
 Description:  Generic IEEE 802.11 Networking Stack (mac80211)
 
 Package: kmod-macvlan
@@ -2372,10 +2372,10 @@ Essential: no
 Priority: optional
 Maintainer: OpenWrt Developers Team <openwrt-devel@openwrt.org>
 Architecture: mini2440
-Installed-Size: 4229
+Installed-Size: 4228
 Filename: kmod-macvlan_2.6.32.2-1_mini2440.ipk
-Size: 5009
-MD5Sum: 340f90c6880ffab9d7f098bf2d428358
+Size: 5001
+MD5Sum: d500e2f65f2656abdf56983553172362
 Description:  A kernel module which allows one to create virtual interfaces that
  map packets to or from specific MAC addresses to a particular interface.
 
@@ -2390,10 +2390,10 @@ Essential: no
 Priority: optional
 Maintainer: OpenWrt Developers Team <openwrt-devel@openwrt.org>
 Architecture: mini2440
-Installed-Size: 4352
+Installed-Size: 4351
 Filename: kmod-mmc-over-gpio_2.6.32.2-4_mini2440.ipk
-Size: 5116
-MD5Sum: 0c4e8f052e9a24fbb9cb968e6bc992a2
+Size: 5110
+MD5Sum: 134241ef2a89c1c28f2aa4e48405b64a
 Description:  Support for driving an MMC/SD card over GPIO pins via SPI.
 
 Package: kmod-mmc-spi
@@ -2409,8 +2409,8 @@ Maintainer: OpenWrt Developers Team <openwrt-devel@openwrt.org>
 Architecture: mini2440
 Installed-Size: 5894
 Filename: kmod-mmc-spi_2.6.32.2-1_mini2440.ipk
-Size: 6621
-MD5Sum: 8e6f74b129110fee8ff590fc9b74c89b
+Size: 6623
+MD5Sum: 24fc2559725bdf52d2e268ec49c9629e
 Description:  Kernel support for MMC/SD over SPI
 
 Package: kmod-mppe
@@ -2424,10 +2424,10 @@ Essential: no
 Priority: optional
 Maintainer: OpenWrt Developers Team <openwrt-devel@openwrt.org>
 Architecture: mini2440
-Installed-Size: 4347
+Installed-Size: 4345
 Filename: kmod-mppe_2.6.32.2-1_mini2440.ipk
-Size: 5090
-MD5Sum: 83a77e2cb93532d35ac6b40cf62e5736
+Size: 5084
+MD5Sum: 99d078d214be175d9da42ea74f359c62
 Description:  Kernel modules for Microsoft PPP compression/encryption
 
 Package: kmod-nbd
@@ -2441,10 +2441,10 @@ Essential: no
 Priority: optional
 Maintainer: OpenWrt Developers Team <openwrt-devel@openwrt.org>
 Architecture: mini2440
-Installed-Size: 6908
+Installed-Size: 6909
 Filename: kmod-nbd_2.6.32.2-1_mini2440.ipk
-Size: 7676
-MD5Sum: 445fdf312e6f6b6b408b55f15959b8a9
+Size: 7680
+MD5Sum: b9b8b93ca76e8b8bb5606a9aaeecaca9
 Description:  Kernel module for network block device support
 
 Package: kmod-nls-cp1250
@@ -2458,10 +2458,10 @@ Essential: no
 Priority: optional
 Maintainer: OpenWrt Developers Team <openwrt-devel@openwrt.org>
 Architecture: mini2440
-Installed-Size: 2207
+Installed-Size: 2211
 Filename: kmod-nls-cp1250_2.6.32.2-1_mini2440.ipk
-Size: 2946
-MD5Sum: f6f4b6249857b0cb7df93ae9eb450355
+Size: 2949
+MD5Sum: c9d7e4140478bce582432b76bdcb26ba
 Description:  Kernel module for NLS Codepage 1250 (Eastern Europe)
 
 Package: kmod-nls-cp1251
@@ -2475,10 +2475,10 @@ Essential: no
 Priority: optional
 Maintainer: OpenWrt Developers Team <openwrt-devel@openwrt.org>
 Architecture: mini2440
-Installed-Size: 2129
+Installed-Size: 2125
 Filename: kmod-nls-cp1251_2.6.32.2-1_mini2440.ipk
-Size: 2862
-MD5Sum: 75a55f8ce17efa62c8a5ba134ff670f5
+Size: 2854
+MD5Sum: 49f8b01b495bf6cf227093b840bd22e2
 Description:  Kernel module for NLS Codepage 1251 (Russian)
 
 Package: kmod-nls-cp775
@@ -2492,10 +2492,10 @@ Essential: no
 Priority: optional
 Maintainer: OpenWrt Developers Team <openwrt-devel@openwrt.org>
 Architecture: mini2440
-Installed-Size: 2305
+Installed-Size: 2313
 Filename: kmod-nls-cp775_2.6.32.2-1_mini2440.ipk
-Size: 3032
-MD5Sum: 5622f6b84bc871f0b82291ef3d2db25b
+Size: 3037
+MD5Sum: 372e7119a3e429d9beb473a0b01520b1
 Description:  Kernel module for NLS Codepage 775 (Baltic Rim)
 
 Package: kmod-nls-cp850
@@ -2509,10 +2509,10 @@ Essential: no
 Priority: optional
 Maintainer: OpenWrt Developers Team <openwrt-devel@openwrt.org>
 Architecture: mini2440
-Installed-Size: 2237
+Installed-Size: 2240
 Filename: kmod-nls-cp850_2.6.32.2-1_mini2440.ipk
-Size: 2973
-MD5Sum: da8604035d66ade55322d5cd684fe2ca
+Size: 2980
+MD5Sum: 1979b8dbc2a3abc20b51b0f7cf04baa8
 Description:  Kernel module for NLS Codepage 850 (Europe)
 
 Package: kmod-nls-cp852
@@ -2526,10 +2526,10 @@ Essential: no
 Priority: optional
 Maintainer: OpenWrt Developers Team <openwrt-devel@openwrt.org>
 Architecture: mini2440
-Installed-Size: 2305
+Installed-Size: 2308
 Filename: kmod-nls-cp852_2.6.32.2-1_mini2440.ipk
-Size: 3028
-MD5Sum: 23bd83e8b85dd478f416c699ea02a4f4
+Size: 3040
+MD5Sum: caef5510b4b9cc0a8ec5d0aaabdb528e
 Description:  Kernel module for NLS Codepage 852 (Europe)
 
 Package: kmod-nls-cp866
@@ -2543,10 +2543,10 @@ Essential: no
 Priority: optional
 Maintainer: OpenWrt Developers Team <openwrt-devel@openwrt.org>
 Architecture: mini2440
-Installed-Size: 2145
+Installed-Size: 2147
 Filename: kmod-nls-cp866_2.6.32.2-1_mini2440.ipk
-Size: 2883
-MD5Sum: 312f543230518c494ec8acce766ecb56
+Size: 2884
+MD5Sum: ef4dcbb349a2c04a91ead99c646526b1
 Description:  Kernel module for NLS Codepage 866 (Cyrillic)
 
 Package: kmod-nls-iso8859-13
@@ -2560,10 +2560,10 @@ Essential: no
 Priority: optional
 Maintainer: OpenWrt Developers Team <openwrt-devel@openwrt.org>
 Architecture: mini2440
-Installed-Size: 2152
+Installed-Size: 2151
 Filename: kmod-nls-iso8859-13_2.6.32.2-1_mini2440.ipk
-Size: 2890
-MD5Sum: b00860d28d3d44f2ec9ae26fc4c6dc8e
+Size: 2889
+MD5Sum: 864850af3542a17be14906aae16a6e23
 Description:  Kernel module for NLS ISO 8859-13 (Latin 7; Baltic)
 
 Package: kmod-nls-iso8859-15
@@ -2577,10 +2577,10 @@ Essential: no
 Priority: optional
 Maintainer: OpenWrt Developers Team <openwrt-devel@openwrt.org>
 Architecture: mini2440
-Installed-Size: 2019
+Installed-Size: 2026
 Filename: kmod-nls-iso8859-15_2.6.32.2-1_mini2440.ipk
-Size: 2754
-MD5Sum: 0bfb336f6cf590ab44a3df2b831c4def
+Size: 2763
+MD5Sum: c5d39599d40db706803a2d50bab71247
 Description:  Kernel module for NLS ISO 8859-15 (Latin 9)
 
 Package: kmod-nls-iso8859-2
@@ -2594,10 +2594,10 @@ Essential: no
 Priority: optional
 Maintainer: OpenWrt Developers Team <openwrt-devel@openwrt.org>
 Architecture: mini2440
-Installed-Size: 2157
+Installed-Size: 2155
 Filename: kmod-nls-iso8859-2_2.6.32.2-1_mini2440.ipk
-Size: 2887
-MD5Sum: b03d1b1ecc19a9ba8bea91f971b1bfac
+Size: 2889
+MD5Sum: d34084e3a53ac5724ddf08aa4c817434
 Description:  Kernel module for NLS ISO 8859-2 (Latin 2)
 
 Package: kmod-nls-koi8r
@@ -2611,10 +2611,10 @@ Essential: no
 Priority: optional
 Maintainer: OpenWrt Developers Team <openwrt-devel@openwrt.org>
 Architecture: mini2440
-Installed-Size: 2168
+Installed-Size: 2166
 Filename: kmod-nls-koi8r_2.6.32.2-1_mini2440.ipk
-Size: 2889
-MD5Sum: c38e4dfff08b6890c56737110426497a
+Size: 2882
+MD5Sum: 3a132dfd5f810bf7f62bcb6582cf63a1
 Description:  Kernel module for NLS KOI8-R (Russian)
 
 Package: kmod-p54-common
@@ -2628,10 +2628,10 @@ Essential: no
 Priority: optional
 Maintainer: Felix Fietkau <nbd@openwrt.org>
 Architecture: mini2440
-Installed-Size: 16640
+Installed-Size: 16639
 Filename: kmod-p54-common_2.6.32.2+2011-04-06-2_mini2440.ipk
-Size: 17358
-MD5Sum: f921ccbad9c9dcb3e9707e5f70988c7e
+Size: 17345
+MD5Sum: 89dd350897013213758923a95948ad3d
 Description:  Prism54 Drivers (COMMON)
 
 Package: kmod-p54-usb
@@ -2645,10 +2645,10 @@ Essential: no
 Priority: optional
 Maintainer: Felix Fietkau <nbd@openwrt.org>
 Architecture: mini2440
-Installed-Size: 32279
+Installed-Size: 32276
 Filename: kmod-p54-usb_2.6.32.2+2011-04-06-2_mini2440.ipk
-Size: 32980
-MD5Sum: 96cd0cc7f74379d60d1c6d6f76d41bf0
+Size: 32977
+MD5Sum: ebd4e08c4003318a2f554067074e1423
 Description:  Prism54 Drivers (USB)
 
 Package: kmod-pktgen
@@ -2664,8 +2664,8 @@ Maintainer: OpenWrt Developers Team <openwrt-devel@openwrt.org>
 Architecture: mini2440
 Installed-Size: 20180
 Filename: kmod-pktgen_2.6.32.2-1_mini2440.ipk
-Size: 20881
-MD5Sum: a87db4454b7c370440dc1fe69ec0ae8f
+Size: 20892
+MD5Sum: a1b69fd2a22a47e78832bca8eb322ad8
 Description:  Kernel modules for the Network Packet Generator
 
 Package: kmod-ppp-synctty
@@ -2679,10 +2679,10 @@ Essential: no
 Priority: optional
 Maintainer: OpenWrt Developers Team <openwrt-devel@openwrt.org>
 Architecture: mini2440
-Installed-Size: 4265
+Installed-Size: 4269
 Filename: kmod-ppp-synctty_2.6.32.2-1_mini2440.ipk
-Size: 4979
-MD5Sum: f6643bee85ff8a3842089613cfa9269f
+Size: 4993
+MD5Sum: 3cbe9b63270c55b21680c63f30db443a
 Description:  Kernel modules for PPP sync tty support
 
 Package: kmod-ppp
@@ -2698,8 +2698,8 @@ Maintainer: OpenWrt Developers Team <openwrt-devel@openwrt.org>
 Architecture: mini2440
 Installed-Size: 20372
 Filename: kmod-ppp_2.6.32.2-1_mini2440.ipk
-Size: 21102
-MD5Sum: 73cc305b840815a0299813759cf4028f
+Size: 21104
+MD5Sum: 86f95657b9fc1adebee45344a796d638
 Description:  Kernel modules for PPP support
 
 Package: kmod-pppoa
@@ -2713,10 +2713,10 @@ Essential: no
 Priority: optional
 Maintainer: OpenWrt Developers Team <openwrt-devel@openwrt.org>
 Architecture: mini2440
-Installed-Size: 2669
+Installed-Size: 2670
 Filename: kmod-pppoa_2.6.32.2-1_mini2440.ipk
-Size: 3384
-MD5Sum: 0d8f5894aa1044ce43abf308e217deef
+Size: 3386
+MD5Sum: 444371ccbac0ab4db0f553bb3ea61bbc
 Description:  Kernel modules for PPPoA (PPP over ATM) support
 
 Package: kmod-pppoe
@@ -2732,8 +2732,8 @@ Maintainer: OpenWrt Developers Team <openwrt-devel@openwrt.org>
 Architecture: mini2440
 Installed-Size: 7691
 Filename: kmod-pppoe_2.6.32.2-1_mini2440.ipk
-Size: 8443
-MD5Sum: 144033dbac68333efcefa795d312842d
+Size: 8441
+MD5Sum: 9a1cd937945e1668f93dc3fbf853c7ad
 Description:  Kernel modules for PPPoE (PPP over Ethernet) support
 
 Package: kmod-pppol2tp
@@ -2747,10 +2747,10 @@ Essential: no
 Priority: optional
 Maintainer: OpenWrt Developers Team <openwrt-devel@openwrt.org>
 Architecture: mini2440
-Installed-Size: 12945
+Installed-Size: 12949
 Filename: kmod-pppol2tp_2.6.32.2-1_mini2440.ipk
-Size: 13677
-MD5Sum: 9fe8efec6120bc7a12774ee81d058b25
+Size: 13678
+MD5Sum: 152fd510932434a4d512cde353658e38
 Description:  Kernel modules for PPPoL2TP (PPP over L2TP) support
 
 Package: kmod-rt2500-usb
@@ -2764,10 +2764,10 @@ Essential: no
 Priority: optional
 Maintainer: Felix Fietkau <nbd@openwrt.org>
 Architecture: mini2440
-Installed-Size: 10343
+Installed-Size: 10344
 Filename: kmod-rt2500-usb_2.6.32.2+2011-04-06-2_mini2440.ipk
-Size: 11067
-MD5Sum: b376b9ad7201ae1826e41f20b3609dab
+Size: 11061
+MD5Sum: 0014d0b30dbc6b56430454d65382c66f
 Description:  Ralink Drivers for RT2x00 cards (RT2500 USB)
 
 Package: kmod-rt2800-lib
@@ -2784,7 +2784,7 @@ Architecture: mini2440
 Installed-Size: 18224
 Filename: kmod-rt2800-lib_2.6.32.2+2011-04-06-2_mini2440.ipk
 Size: 18995
-MD5Sum: 75ca2aa858e0ba6da6b55138ed3f516b
+MD5Sum: d55642039ac57820d8e053b8925a1e88
 Description:  Ralink Drivers for RT2x00 cards (rt2800 LIB)
 
 Package: kmod-rt2800-usb
@@ -2800,8 +2800,8 @@ Maintainer: Felix Fietkau <nbd@openwrt.org>
 Architecture: mini2440
 Installed-Size: 9898
 Filename: kmod-rt2800-usb_2.6.32.2+2011-04-06-2_mini2440.ipk
-Size: 10497
-MD5Sum: 1aa2e8fca7b1dc9d6bc34d0ce67a261e
+Size: 10502
+MD5Sum: d70dc635afed4c873c3d1d08c6c765ac
 Description:  Ralink Drivers for RT2x00 cards (RT2870 USB)
 
 Package: kmod-rt2x00-lib
@@ -2815,10 +2815,10 @@ Essential: no
 Priority: optional
 Maintainer: Felix Fietkau <nbd@openwrt.org>
 Architecture: mini2440
-Installed-Size: 16238
+Installed-Size: 16237
 Filename: kmod-rt2x00-lib_2.6.32.2+2011-04-06-2_mini2440.ipk
-Size: 16992
-MD5Sum: 84c68674971a1d39d1d37a980b8987f7
+Size: 16981
+MD5Sum: 65960d8717f51813d72796ca88ba4f82
 Description:  Ralink Drivers for RT2x00 cards (LIB)
 
 Package: kmod-rt2x00-usb
@@ -2832,10 +2832,10 @@ Essential: no
 Priority: optional
 Maintainer: Felix Fietkau <nbd@openwrt.org>
 Architecture: mini2440
-Installed-Size: 5020
+Installed-Size: 5018
 Filename: kmod-rt2x00-usb_2.6.32.2+2011-04-06-2_mini2440.ipk
-Size: 5750
-MD5Sum: ad70c74154630f23c362814738219e51
+Size: 5748
+MD5Sum: 5c4c25d24d5f63053ddbc942acd2eb86
 Description:  Ralink Drivers for RT2x00 cards (USB)
 
 Package: kmod-rt73-usb
@@ -2849,10 +2849,10 @@ Essential: no
 Priority: optional
 Maintainer: Felix Fietkau <nbd@openwrt.org>
 Architecture: mini2440
-Installed-Size: 14539
+Installed-Size: 14540
 Filename: kmod-rt73-usb_2.6.32.2+2011-04-06-2_mini2440.ipk
-Size: 15192
-MD5Sum: cea514c13133600c0dd3f10513da3a8d
+Size: 15194
+MD5Sum: 3f40a34157b45ae82c7a26c01a4ff852
 Description:  Ralink Drivers for RT2x00 cards (RT73 USB)
 
 Package: kmod-rtl8187
@@ -2866,10 +2866,10 @@ Essential: no
 Priority: optional
 Maintainer: Felix Fietkau <nbd@openwrt.org>
 Architecture: mini2440
-Installed-Size: 20995
+Installed-Size: 20994
 Filename: kmod-rtl8187_2.6.32.2+2011-04-06-2_mini2440.ipk
-Size: 21670
-MD5Sum: 6312c9c5559293dec92154060c094fa4
+Size: 21677
+MD5Sum: 6abdb4c076050f779eaf38bfa2be5292
 Description:  Realtek Drivers for RTL818x devices (RTL8187 USB)
 
 Package: kmod-sched
@@ -2883,10 +2883,10 @@ Essential: no
 Priority: optional
 Maintainer: OpenWrt Developers Team <openwrt-devel@openwrt.org>
 Architecture: mini2440
-Installed-Size: 67311
+Installed-Size: 67300
 Filename: kmod-sched_2.6.32.2-1_mini2440.ipk
-Size: 67979
-MD5Sum: f8ea0e021ef5f96de9ce6c237ed41830
+Size: 67975
+MD5Sum: 11c11af51972c436e43c9cdc3035e4ee
 Description:  Kernel schedulers for IP traffic
 
 Package: kmod-siit
@@ -2902,8 +2902,8 @@ Maintainer: OpenWrt Developers Team <openwrt-devel@openwrt.org>
 Architecture: mini2440
 Installed-Size: 5145
 Filename: kmod-siit_2.6.32.2+1.1-1_mini2440.ipk
-Size: 5852
-MD5Sum: 40451a1c1ac2a7f60d85d19251611515
+Size: 5851
+MD5Sum: fdb54aa3cc121977abb72226815a0d11
 Description:  Stateless IP ICMP Translation Algorithm
 
 Package: kmod-sit
@@ -2919,8 +2919,8 @@ Maintainer: OpenWrt Developers Team <openwrt-devel@openwrt.org>
 Architecture: mini2440
 Installed-Size: 6496
 Filename: kmod-sit_2.6.32.2-1_mini2440.ipk
-Size: 7224
-MD5Sum: cfb3794ebfeaec8facc8ee10563e7f2d
+Size: 7216
+MD5Sum: 7a236aa583edeb0b61e524b194398930
 Description:  Kernel modules for IPv6-in-IPv4 tunnelling
 
 Package: kmod-sound-core
@@ -2934,10 +2934,10 @@ Essential: no
 Priority: optional
 Maintainer: OpenWrt Developers Team <openwrt-devel@openwrt.org>
 Architecture: mini2440
-Installed-Size: 7107
+Installed-Size: 7113
 Filename: kmod-sound-core_2.6.32.2-1_mini2440.ipk
-Size: 7872
-MD5Sum: a5bed6fb1048f0e746e2b2092347a475
+Size: 7883
+MD5Sum: 3f12100f2281bb1f2021bd516ab7de08
 Description:  Kernel modules for sound support
 
 Package: kmod-spi-dev
@@ -2951,10 +2951,10 @@ Essential: no
 Priority: optional
 Maintainer: OpenWrt Developers Team <openwrt-devel@openwrt.org>
 Architecture: mini2440
-Installed-Size: 4139
+Installed-Size: 4141
 Filename: kmod-spi-dev_2.6.32.2-1_mini2440.ipk
-Size: 4857
-MD5Sum: 9089a205f71171cd34257480fd9cc7fd
+Size: 4852
+MD5Sum: a2e1401e3875fca2c70c5440bf27fca5
 Description:  This package contains the user mode SPI device driver
 
 Package: kmod-spi-gpio-old
@@ -2968,10 +2968,10 @@ Essential: no
 Priority: optional
 Maintainer: OpenWrt Developers Team <openwrt-devel@openwrt.org>
 Architecture: mini2440
-Installed-Size: 2444
+Installed-Size: 2442
 Filename: kmod-spi-gpio-old_2.6.32.2-1_mini2440.ipk
-Size: 3176
-MD5Sum: 1ec03be37adf6bb4301cf0ebbdcc3ee9
+Size: 3173
+MD5Sum: 44045b3102e4b8ff87279b6bc1e88c37
 Description:  This package contains the GPIO based bitbanging SPI controller driver
 
 Package: kmod-spi-gpio
@@ -2988,7 +2988,7 @@ Architecture: mini2440
 Installed-Size: 2506
 Filename: kmod-spi-gpio_2.6.32.2-1_mini2440.ipk
 Size: 3234
-MD5Sum: b101f8b2d06748252342b4f9548ce707
+MD5Sum: 431a4faa74b3c6ecdbd6a9fdd2faf8b4
 Description:  This package contains the GPIO-based bitbanging SPI Master
 
 Package: kmod-spi-ks8995
@@ -3002,10 +3002,10 @@ Essential: no
 Priority: optional
 Maintainer: OpenWrt Developers Team <openwrt-devel@openwrt.org>
 Architecture: mini2440
-Installed-Size: 2634
+Installed-Size: 2633
 Filename: kmod-spi-ks8995_2.6.32.2-1_mini2440.ipk
 Size: 3356
-MD5Sum: 1859437eecba8926add4d893a7b3f511
+MD5Sum: 6ef8584e5cff7415159d73864c977f69
 Description:  Kernel module for Micrel/Kendin KS8995 ethernet switch
 
 Package: kmod-tun
@@ -3021,8 +3021,8 @@ Maintainer: OpenWrt Developers Team <openwrt-devel@openwrt.org>
 Architecture: mini2440
 Installed-Size: 7655
 Filename: kmod-tun_2.6.32.2-1_mini2440.ipk
-Size: 8389
-MD5Sum: 52d057c99b0e5bd9f12da80e210f0047
+Size: 8397
+MD5Sum: 1548f40231fca9b35d470526d064d02e
 Description:  Kernel support for the TUN/TAP tunneling device
 
 Package: kmod-usb-acm
@@ -3036,10 +3036,10 @@ Essential: no
 Priority: optional
 Maintainer: OpenWrt Developers Team <openwrt-devel@openwrt.org>
 Architecture: mini2440
-Installed-Size: 9273
+Installed-Size: 9272
 Filename: kmod-usb-acm_2.6.32.2-1_mini2440.ipk
-Size: 10022
-MD5Sum: 55fc4adc2a63e739e0a0a49f1bbd709f
+Size: 10027
+MD5Sum: 83a8763d0641c5f753ac5eb6b9a62312
 Description:  Kernel support for USB ACM devices (modems/isdn controllers)
 
 Package: kmod-usb-atm-cxacru
@@ -3053,10 +3053,10 @@ Essential: no
 Priority: optional
 Maintainer: OpenWrt Developers Team <openwrt-devel@openwrt.org>
 Architecture: mini2440
-Installed-Size: 9331
+Installed-Size: 9329
 Filename: kmod-usb-atm-cxacru_2.6.32.2-1_mini2440.ipk
-Size: 10097
-MD5Sum: 536d5734dbd192ccd19846c8eb4ca657
+Size: 10094
+MD5Sum: 8960b2ca05208448cad3c29101adf562
 Description:  Kernel support for cxacru based USB ADSL modems
 
 Package: kmod-usb-atm-speedtouch
@@ -3072,8 +3072,8 @@ Maintainer: OpenWrt Developers Team <openwrt-devel@openwrt.org>
 Architecture: mini2440
 Installed-Size: 7246
 Filename: kmod-usb-atm-speedtouch_2.6.32.2-1_mini2440.ipk
-Size: 8019
-MD5Sum: cf9e257a8e4dbb8fcf4507a4d831bac7
+Size: 8011
+MD5Sum: 9ada68333ae34df69e064a6dd7f4889d
 Description:  Kernel support for SpeedTouch USB ADSL modems
 
 Package: kmod-usb-atm-ueagle
@@ -3087,10 +3087,10 @@ Essential: no
 Priority: optional
 Maintainer: OpenWrt Developers Team <openwrt-devel@openwrt.org>
 Architecture: mini2440
-Installed-Size: 14966
+Installed-Size: 14965
 Filename: kmod-usb-atm-ueagle_2.6.32.2-1_mini2440.ipk
-Size: 15634
-MD5Sum: a814e2e64a0bed042dae27ed42a048f5
+Size: 15616
+MD5Sum: 18eb404e381205bc3c7199dbf63a857c
 Description:  Kernel support for Eagle 8051 based USB ADSL modems
 
 Package: kmod-usb-atm
@@ -3104,10 +3104,10 @@ Essential: no
 Priority: optional
 Maintainer: OpenWrt Developers Team <openwrt-devel@openwrt.org>
 Architecture: mini2440
-Installed-Size: 8779
+Installed-Size: 8778
 Filename: kmod-usb-atm_2.6.32.2-1_mini2440.ipk
-Size: 9510
-MD5Sum: 3320e495ff369d2a6158304f90aa10c6
+Size: 9511
+MD5Sum: 713d1a26320aa2399995c50505df8021
 Description:  Kernel support for USB DSL modems
 
 Package: kmod-usb-cm109
@@ -3121,10 +3121,10 @@ Essential: no
 Priority: optional
 Maintainer: OpenWrt Developers Team <openwrt-devel@openwrt.org>
 Architecture: mini2440
-Installed-Size: 5933
+Installed-Size: 5934
 Filename: kmod-usb-cm109_2.6.32.2-1_mini2440.ipk
-Size: 6422
-MD5Sum: 8c9c6593c277110ddb4a0d665b651405
+Size: 6585
+MD5Sum: b604491750f428377234d577acf73d67
 Description:  Kernel support for CM109 VOIP phone
 
 Package: kmod-usb-net-asix
@@ -3138,10 +3138,10 @@ Essential: no
 Priority: optional
 Maintainer: OpenWrt Developers Team <openwrt-devel@openwrt.org>
 Architecture: mini2440
-Installed-Size: 7338
+Installed-Size: 7337
 Filename: kmod-usb-net-asix_2.6.32.2-1_mini2440.ipk
-Size: 8108
-MD5Sum: db43c3d3b62205300a1eefd199f87473
+Size: 8103
+MD5Sum: ef268bef8bf1c74ed3715e40069db5a4
 Description:  Kernel module for USB-to-Ethernet Asix convertors
 
 Package: kmod-usb-net-cdc-ether
@@ -3155,10 +3155,10 @@ Essential: no
 Priority: optional
 Maintainer: OpenWrt Developers Team <openwrt-devel@openwrt.org>
 Architecture: mini2440
-Installed-Size: 3212
+Installed-Size: 3211
 Filename: kmod-usb-net-cdc-ether_2.6.32.2-1_mini2440.ipk
-Size: 3928
-MD5Sum: b620df975582fbce8a2382c91d106bf2
+Size: 3924
+MD5Sum: c7fe4d0b266a0aeb15414996a7592410
 Description:  Kernel support for USB CDC Ethernet devices
 
 Package: kmod-usb-net-dm9601-ether
@@ -3172,10 +3172,10 @@ Essential: no
 Priority: optional
 Maintainer: OpenWrt Developers Team <openwrt-devel@openwrt.org>
 Architecture: mini2440
-Installed-Size: 4830
+Installed-Size: 4828
 Filename: kmod-usb-net-dm9601-ether_2.6.32.2-1_mini2440.ipk
-Size: 5552
-MD5Sum: d96dfbfaf6b8a86c22c8c09d13a9107a
+Size: 5550
+MD5Sum: e8b7e2ea576804d25d26945994f7780a
 Description:  Kernel support for USB DM9601 devices
 
 Package: kmod-usb-net-kaweth
@@ -3189,10 +3189,10 @@ Essential: no
 Priority: optional
 Maintainer: OpenWrt Developers Team <openwrt-devel@openwrt.org>
 Architecture: mini2440
-Installed-Size: 7211
+Installed-Size: 7210
 Filename: kmod-usb-net-kaweth_2.6.32.2-1_mini2440.ipk
-Size: 7945
-MD5Sum: 4d36122bbf7f91699900f65c91cb7ba6
+Size: 7941
+MD5Sum: cffc1563093f1a0d853e14c5f3bf46cc
 Description:  Kernel module for USB-to-Ethernet Kaweth convertors
 
 Package: kmod-usb-net-mcs7830
@@ -3206,10 +3206,10 @@ Essential: no
 Priority: optional
 Maintainer: OpenWrt Developers Team <openwrt-devel@openwrt.org>
 Architecture: mini2440
-Installed-Size: 3752
+Installed-Size: 3749
 Filename: kmod-usb-net-mcs7830_2.6.32.2-1_mini2440.ipk
 Size: 4472
-MD5Sum: aa6c6329aa58ca8f98643fa613aa37e5
+MD5Sum: 91315a7a6bc82f53ab0d63b4559a7e0d
 Description:  Kernel module for USB-to-Ethernet MCS7830 convertors
 
 Package: kmod-usb-net-pegasus
@@ -3223,10 +3223,10 @@ Essential: no
 Priority: optional
 Maintainer: OpenWrt Developers Team <openwrt-devel@openwrt.org>
 Architecture: mini2440
-Installed-Size: 11987
+Installed-Size: 11982
 Filename: kmod-usb-net-pegasus_2.6.32.2-1_mini2440.ipk
-Size: 12660
-MD5Sum: d7257f8f95f128e8c3afd76853559569
+Size: 12637
+MD5Sum: 25e552339a31e2792360119fb3bb2d85
 Description:  Kernel module for USB-to-Ethernet Pegasus convertors
 
 Package: kmod-usb-net-rndis
@@ -3240,10 +3240,10 @@ Essential: no
 Priority: optional
 Maintainer: OpenWrt Developers Team <openwrt-devel@openwrt.org>
 Architecture: mini2440
-Installed-Size: 4678
+Installed-Size: 4679
 Filename: kmod-usb-net-rndis_2.6.32.2-1_mini2440.ipk
-Size: 5391
-MD5Sum: c6105ce3d44c934a2ed73284e2394264
+Size: 5395
+MD5Sum: d438806ccbb2769227ef9613fba1cef9
 Description:  Kernel support for RNDIS connections
 
 Package: kmod-usb-net
@@ -3257,10 +3257,10 @@ Essential: no
 Priority: optional
 Maintainer: OpenWrt Developers Team <openwrt-devel@openwrt.org>
 Architecture: mini2440
-Installed-Size: 8050
+Installed-Size: 8048
 Filename: kmod-usb-net_2.6.32.2-1_mini2440.ipk
-Size: 8804
-MD5Sum: 84c7a0ef7bcea3da9004f69aad33dec6
+Size: 8792
+MD5Sum: d7580cf32694e32984e297242d100359
 Description:  Kernel modules for USB-to-Ethernet convertors
 
 Package: kmod-usb-printer
@@ -3274,10 +3274,10 @@ Essential: no
 Priority: optional
 Maintainer: OpenWrt Developers Team <openwrt-devel@openwrt.org>
 Architecture: mini2440
-Installed-Size: 6958
+Installed-Size: 6961
 Filename: kmod-usb-printer_2.6.32.2-1_mini2440.ipk
-Size: 7734
-MD5Sum: 22b4e676c8b6981b0ae4b980ce8e9c18
+Size: 7742
+MD5Sum: f5a833a0430eede73fd15ea6a88df853
 Description:  Kernel support for USB printers
 
 Package: kmod-usb-video
@@ -3291,10 +3291,10 @@ Essential: no
 Priority: optional
 Maintainer: OpenWrt Developers Team <openwrt-devel@openwrt.org>
 Architecture: mini2440
-Installed-Size: 12320
+Installed-Size: 12311
 Filename: kmod-usb-video_2.6.32.2-1_mini2440.ipk
-Size: 13041
-MD5Sum: 56be03a3c464e918316b57aa70639ea2
+Size: 13035
+MD5Sum: 91e884a7ac59e4b3414729f96e42cb56
 Description:  Kernel support for USB video devices
 
 Package: kmod-usb-yealink
@@ -3308,10 +3308,10 @@ Essential: no
 Priority: optional
 Maintainer: OpenWrt Developers Team <openwrt-devel@openwrt.org>
 Architecture: mini2440
-Installed-Size: 5930
+Installed-Size: 5931
 Filename: kmod-usb-yealink_2.6.32.2-1_mini2440.ipk
-Size: 6655
-MD5Sum: e0214895f81798cd06e4b91de05a9f91
+Size: 6664
+MD5Sum: 0464fc300700d5d02cdd4b6822cc29c2
 Description:  Kernel support for Yealink VOIP phone
 
 Package: kmod-video-cpia2
@@ -3325,10 +3325,10 @@ Essential: no
 Priority: optional
 Maintainer: OpenWrt Developers Team <openwrt-devel@openwrt.org>
 Architecture: mini2440
-Installed-Size: 18995
+Installed-Size: 18992
 Filename: kmod-video-cpia2_2.6.32.2-1_mini2440.ipk
-Size: 19749
-MD5Sum: 441759f074770652cc9f231a66dda838
+Size: 19750
+MD5Sum: 424f33cd9fbb2948cd194c56995f0306
 Description:  Kernel modules for supporting CPIA2 USB based cameras.
 
 Package: kmod-video-konica
@@ -3342,10 +3342,10 @@ Essential: no
 Priority: optional
 Maintainer: OpenWrt Developers Team <openwrt-devel@openwrt.org>
 Architecture: mini2440
-Installed-Size: 7250
+Installed-Size: 7249
 Filename: kmod-video-konica_2.6.32.2-1_mini2440.ipk
-Size: 8080
-MD5Sum: 09849222e62a363bcd4e06abadfad0e8
+Size: 8076
+MD5Sum: b2708b14777c2f2167d849d4cb54d483
 Description:  Kernel support for webcams based on a Konica chipset. This is known to 
  work with the Intel YC76 webcam.
 
@@ -3360,10 +3360,10 @@ Essential: no
 Priority: optional
 Maintainer: OpenWrt Developers Team <openwrt-devel@openwrt.org>
 Architecture: mini2440
-Installed-Size: 33000
+Installed-Size: 33005
 Filename: kmod-video-ov511_2.6.32.2-1_mini2440.ipk
-Size: 33779
-MD5Sum: 6615673345fbda9f23a238706b2536e0
+Size: 33780
+MD5Sum: 82560db635d290d288cac594537628a1
 Description:  Kernel modules for supporting OmniVision OV511 USB webcams.
 
 Package: kmod-video-ovcamchip
@@ -3377,10 +3377,10 @@ Essential: no
 Priority: optional
 Maintainer: OpenWrt Developers Team <openwrt-devel@openwrt.org>
 Architecture: mini2440
-Installed-Size: 8442
+Installed-Size: 8441
 Filename: kmod-video-ovcamchip_2.6.32.2-1_mini2440.ipk
-Size: 9241
-MD5Sum: 5952ec4d3c97886394c91b1a4d34e9f9
+Size: 9230
+MD5Sum: bf3fc0b94687a91b0403bd9f911355a2
 Description:  Kernel modules for supporting OmniVision OV6xxx and OV7xxx series of 
  camera chips.
 
@@ -3395,10 +3395,10 @@ Essential: no
 Priority: optional
 Maintainer: OpenWrt Developers Team <openwrt-devel@openwrt.org>
 Architecture: mini2440
-Installed-Size: 28868
+Installed-Size: 28873
 Filename: kmod-video-pwc_2.6.32.2-1_mini2440.ipk
-Size: 29608
-MD5Sum: b6ea969094945864d0240417139f708e
+Size: 29619
+MD5Sum: 36893251eb0a51a83669adc7cc639fc9
 Description:  Kernel modules for supporting Philips USB based cameras.
 
 Package: kmod-video-sn9c102
@@ -3412,10 +3412,10 @@ Essential: no
 Priority: optional
 Maintainer: OpenWrt Developers Team <openwrt-devel@openwrt.org>
 Architecture: mini2440
-Installed-Size: 34308
+Installed-Size: 34305
 Filename: kmod-video-sn9c102_2.6.32.2-1_mini2440.ipk
-Size: 34748
-MD5Sum: a0dcc77286cb60a28cca5aee6d98a68e
+Size: 34772
+MD5Sum: 5ca7e9ef9a9eb62d07a5195f951420f3
 Description:  Kernel modules for supporting SN9C102
  camera chips.
 
@@ -3432,8 +3432,8 @@ Maintainer: OpenWrt Developers Team <openwrt-devel@openwrt.org>
 Architecture: mini2440
 Installed-Size: 2073
 Filename: kmod-w1-gpio-custom_2.6.32.2-2_mini2440.ipk
-Size: 2744
-MD5Sum: 66b2e89a05f1dfa9bd3b8f44eee9f0c5
+Size: 2743
+MD5Sum: c9620c4850a05ae92b91d427323071e0
 Description:  Kernel module to register a custom w1-gpio platform device.
 
 Package: kmod-w1-master-gpio
@@ -3447,10 +3447,10 @@ Essential: no
 Priority: optional
 Maintainer: OpenWrt Developers Team <openwrt-devel@openwrt.org>
 Architecture: mini2440
-Installed-Size: 1635
+Installed-Size: 1636
 Filename: kmod-w1-master-gpio_2.6.32.2-1_mini2440.ipk
-Size: 2393
-MD5Sum: 8bbc785435b1cbdfa63eced7bbf54fe4
+Size: 2390
+MD5Sum: cc872290e11b22325a5016dc2f799d7e
 Description:  Kernel module for the GPIO 1-wire bus master driver
 
 Package: kmod-w1-slave-ds2433
@@ -3464,10 +3464,10 @@ Essential: no
 Priority: optional
 Maintainer: OpenWrt Developers Team <openwrt-devel@openwrt.org>
 Architecture: mini2440
-Installed-Size: 1864
+Installed-Size: 1863
 Filename: kmod-w1-slave-ds2433_2.6.32.2-1_mini2440.ipk
-Size: 2639
-MD5Sum: d616dadf3d569f59d632e31cc08629a1
+Size: 2640
+MD5Sum: eed7ce7bb94c1773d5926d28b494b621
 Description:  Kernel module for 1-wire simple 64bit memory rom(ds2401/ds2411/ds1990*)
 
 Package: kmod-w1-slave-ds2760
@@ -3481,10 +3481,10 @@ Essential: no
 Priority: optional
 Maintainer: OpenWrt Developers Team <openwrt-devel@openwrt.org>
 Architecture: mini2440
-Installed-Size: 2275
+Installed-Size: 2273
 Filename: kmod-w1-slave-ds2760_2.6.32.2-1_mini2440.ipk
-Size: 3001
-MD5Sum: 2440d482e73c5931844a4a5a09dbde29
+Size: 3000
+MD5Sum: 3b64982ad4f0fba60f91fe3ef799ccf4
 Description:  Kernel module for 1-wire DS2760 battery monitor chip support
 
 Package: kmod-w1-slave-smem
@@ -3498,10 +3498,10 @@ Essential: no
 Priority: optional
 Maintainer: OpenWrt Developers Team <openwrt-devel@openwrt.org>
 Architecture: mini2440
-Installed-Size: 1126
+Installed-Size: 1124
 Filename: kmod-w1-slave-smem_2.6.32.2-1_mini2440.ipk
 Size: 1893
-MD5Sum: 779ee32526a7f8ced31feb6c4d675f8c
+MD5Sum: 69bcf8fcb1d84dcce4facda8b490b046
 Description:  Kernel module for 1-wire simple 64bit memory rom(ds2401/ds2411/ds1990*)
 
 Package: kmod-w1-slave-therm
@@ -3515,10 +3515,10 @@ Essential: no
 Priority: optional
 Maintainer: OpenWrt Developers Team <openwrt-devel@openwrt.org>
 Architecture: mini2440
-Installed-Size: 2639
+Installed-Size: 2638
 Filename: kmod-w1-slave-therm_2.6.32.2-1_mini2440.ipk
-Size: 3359
-MD5Sum: e06d24bbf885a3195bee767a71e9e1a3
+Size: 3361
+MD5Sum: 4442bf38fd3469a6b7dbdabff12ea8b5
 Description:  Kernel module for 1-wire thermal sensors
 
 Package: kmod-w1
@@ -3532,10 +3532,10 @@ Essential: no
 Priority: optional
 Maintainer: OpenWrt Developers Team <openwrt-devel@openwrt.org>
 Architecture: mini2440
-Installed-Size: 9910
+Installed-Size: 9909
 Filename: kmod-w1_2.6.32.2-1_mini2440.ipk
 Size: 10650
-MD5Sum: 187787ead903fa605dcf0144b7a7dbf2
+MD5Sum: b3f6051f79e4b312a927d9eb5d4e6e06
 Description:  Kernel module for Dallas's 1-wire support
 
 Package: kmod-wprobe
@@ -3549,10 +3549,10 @@ Essential: no
 Priority: optional
 Maintainer: Felix Fietkau <nbd@openwrt.org>
 Architecture: mini2440
-Installed-Size: 7364
+Installed-Size: 7368
 Filename: kmod-wprobe_2.6.32.2+1-1_mini2440.ipk
-Size: 8111
-MD5Sum: f2dcb7b2a9eac3cacc53bb12b0868209
+Size: 8125
+MD5Sum: 263cf4f3bfc0ec91e4f904e25c439aec
 Description:  A module that exports measurement data from wireless driver to user space
 
 Package: kmod-zd1211rw
@@ -3566,10 +3566,10 @@ Essential: no
 Priority: optional
 Maintainer: Felix Fietkau <nbd@openwrt.org>
 Architecture: mini2440
-Installed-Size: 38878
+Installed-Size: 38879
 Filename: kmod-zd1211rw_2.6.32.2+2011-04-06-2_mini2440.ipk
-Size: 39561
-MD5Sum: e1f921b93ba1e7589214f45f093ae041
+Size: 39558
+MD5Sum: 0002eee02c00c87e5d19a1cd3b633678
 Description:  Zydas ZD1211 support
 
 Package: ldconfig
@@ -3687,10 +3687,10 @@ Essential: no
 Priority: optional
 Maintainer: OpenWrt Developers Team <openwrt-devel@openwrt.org>
 Architecture: mini2440
-Installed-Size: 48230
+Installed-Size: 48232
 Filename: libfuse_2.8.3-1_mini2440.ipk
-Size: 48522
-MD5Sum: 26aecf3b5df9052ce5e6320cfd8ccc22
+Size: 48491
+MD5Sum: a846ecbad0c79c1835a1df39a62d0374
 Description:  FUSE (Filesystem in UserSpacE)
  This package contains the FUSE shared libraries, needed by other programs.
  - libfuse
@@ -4707,8 +4707,8 @@ Maintainer: OpenWrt Developers Team <openwrt-devel@openwrt.org>
 Architecture: mini2440
 Installed-Size: 24433
 Filename: wprobe-export_1-1_mini2440.ipk
-Size: 25054
-MD5Sum: 7df1f11d8c16c8b1e45df33a87a205e6
+Size: 25050
+MD5Sum: 3121a7e255723db8ea1932f2cdab887d
 Description:  wprobe-export uses the wprobe kernel module to export
  wireless driver measurement data via the IPFIX protocol
 
@@ -4723,10 +4723,10 @@ Essential: no
 Priority: optional
 Maintainer: OpenWrt Developers Team <openwrt-devel@openwrt.org>
 Architecture: mini2440
-Installed-Size: 12140
+Installed-Size: 12139
 Filename: wprobe-util_1-1_mini2440.ipk
-Size: 12759
-MD5Sum: d91d6b6fddc5fd5e700ec80a49e47f40
+Size: 12762
+MD5Sum: 09e5927309824fdf74a9fed51eddb960
 Description:  wprobe-util uses the wprobe kernel module to query
  wireless driver measurement data from an interface
 
